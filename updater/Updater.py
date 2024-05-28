@@ -21,7 +21,7 @@ def resource_path(relative_path):
     return os.path.join(base_path, relative_path)
 
 def baixar_e_descompactar():
-    url_raw = "https://raw.githubusercontent.com/ItsOnlyMe360/KKSMP/main/redirect.txt"
+    url_raw = "https://raw.githubusercontent.com/ItsOnlyMe360/Modpack-Updater/main/redirect.txt"
 
     try:
         label_status.config(text="Baixando atualização...", bg='#1f1f1f')
