@@ -1,3 +1,5 @@
+Clone esse repositório e altere o link de redirect.txt pro seu modpack e informe o nome das pastas a serem alteradas em folders.txt (ex: mods, configs, saves)
+
 # Modpack Updater
 
 Como o código foi criado pelo ChatGPT e refinado por mim, nada melhor do que uma explicação escrita por ele:
