@@ -106,7 +106,7 @@ def on_leave(event):
     button_label.config(image=button_image)
 
 root = tk.Tk()
-root.title("KKSMP Updater")
+root.title("Modpack Updater")
 root.resizable(False, False)
 root.geometry("854x480")
 
